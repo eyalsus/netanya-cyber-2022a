@@ -1,4 +1,4 @@
-ABC = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+from consts import ABC
 
 def caesar_cipher(message, key):
     convered_str = ''
